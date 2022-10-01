@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/AmazingTrip-Fe/static/css/main.7db6e3c7.css",
+    "main.js": "/AmazingTrip-Fe/static/js/main.2785b260.js",
+    "static/js/787.16664f07.chunk.js": "/AmazingTrip-Fe/static/js/787.16664f07.chunk.js",
+    "static/media/landing-1.png": "/AmazingTrip-Fe/static/media/landing-1.f1dde43e2baa2c1e6c7b.png",
+    "static/media/a.jpg": "/AmazingTrip-Fe/static/media/a.bb5172e549358d0807d5.jpg",
+    "static/media/landing-2.png": "/AmazingTrip-Fe/static/media/landing-2.4aac53988afe37df2778.png",
+    "static/media/anh-du-lich-dep_095811184.jpg": "/AmazingTrip-Fe/static/media/anh-du-lich-dep_095811184.7c6b61230ecb1bb785e8.jpg",
+    "static/media/pexels-photo-2734521.jpeg": "/AmazingTrip-Fe/static/media/pexels-photo-2734521.c0893436fddf861afe87.jpeg",
+    "static/media/Ver1.png": "/AmazingTrip-Fe/static/media/Ver1.ad5ea54b7b6257a593c2.png",
+    "static/media/background.jpg": "/AmazingTrip-Fe/static/media/background.ff8bf4bdfaa8bdce5177.jpg",
+    "static/media/body-background.jpg": "/AmazingTrip-Fe/static/media/body-background.1b3be9a155130db562a2.jpg",
+    "static/media/footer-background.jpg": "/AmazingTrip-Fe/static/media/footer-background.766c2ce48df96afeac45.jpg",
+    "static/media/landing-3.png": "/AmazingTrip-Fe/static/media/landing-3.2a6920d9a522fb7f843c.png",
+    "static/media/google.png": "/AmazingTrip-Fe/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/facebook.png": "/AmazingTrip-Fe/static/media/facebook.01a470d813915c298403.png",
+    "static/media/slick.svg": "/AmazingTrip-Fe/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/AmazingTrip-Fe/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/AmazingTrip-Fe/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/AmazingTrip-Fe/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/AmazingTrip-Fe/index.html",
+    "main.7db6e3c7.css.map": "/AmazingTrip-Fe/static/css/main.7db6e3c7.css.map",
+    "main.2785b260.js.map": "/AmazingTrip-Fe/static/js/main.2785b260.js.map",
+    "787.16664f07.chunk.js.map": "/AmazingTrip-Fe/static/js/787.16664f07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db6e3c7.css",
+    "static/js/main.2785b260.js"
+  ]
+}
